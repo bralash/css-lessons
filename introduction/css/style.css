@@ -1,0 +1,30 @@
+div {
+    width: 100px;
+    height: 100px;
+}
+
+.orange {
+    background-color: orange;
+    border-radius: 50px;
+}
+
+.teal {
+    background-color: teal;
+}
+
+.bathroom .door {
+    background-color: red;
+}
+.orange .rounded {
+    border-radius: 50px;
+    /* background-color: red; */
+}
+
+.black {
+    background-color: #333;
+    color: #fff;
+}
+
+.child {
+    border: 1px solid red;
+}
